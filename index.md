@@ -4,5 +4,4 @@ Welcome to the GCSE Chemistry course! This folder contains a collection of notes
 
 ## Topics
 
-[Topic 1: Atomic Structure](1-AtomicStructure/index.md)
-
+[View the list of Chemistry topics](topics.md)
