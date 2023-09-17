@@ -1,8 +1,8 @@
-# 1 - Atomic Structure
+# Topic 1 - Atomic Structure
 
 In this topic, we will learn about the structure of atoms and how they interact with each other.
 
-[Back to topic list](../README.md)
+[Back to topic list](../topics.md)
 
 ## Topic Content
 
@@ -14,3 +14,4 @@ In this topic, we will learn about the structure of atoms and how they interact 
 [Lesson 1.6 - Discovering The Atom](1.6-AtomicDiscovery.md)  
 [Lesson 1.7 - Size Of Atoms](1.7-AtomSize.md)  
 [Lesson 1.8 - Relative Atomic Mass](1.8-RelAtomicMass.md)  
+[Lesson 1.9 - Electronic Structure](1.9-ElectronStructure.md)  
