@@ -8,3 +8,4 @@ In this topic, we will learn about the structure of atoms and how they interact 
 
 [Lesson 2.1 - The Periodic Table](2.1-PeriodicTable.md)  
 [Lesson 2.2 - Element Patterns](2.1-PeriodicTable.md)  
+[Lesson 2.3 - Developing The Periodic Table](2.3-DevelopingPeriodicTable.md)  
