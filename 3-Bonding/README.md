@@ -6,4 +6,4 @@ In this topic, we will learn about how atoms interact with each other to form co
 
 ## Topic Content
 
-[Lesson 3.1 - TO FINISH](3.1-LESSONNAME.md)  
+[Lesson 3.1 - Chemical Bonds](3.1-ChemicalBonds.md)  
