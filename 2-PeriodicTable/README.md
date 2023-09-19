@@ -1,8 +1,8 @@
 # Topic 2 - Periodic Table
 
-In this topic, we will learn about the structure of atoms and how they interact with each other.
+In this topic, we will learn about the periodic table and the elements it contains.
 
-[Back to topic list](../topics.md)
+[Back to topic list](../)
 
 ## Topic Content
 
@@ -13,4 +13,4 @@ In this topic, we will learn about the structure of atoms and how they interact 
 [Lesson 2.5 - Group 0](2.5-Group0.md)  
 [Lesson 2.6 - Group 1](2.6-Group1.md)  
 [Lesson 2.7 - Group 7](2.7-Group7.md)  
-[Lesson 2.8 - Group Transition Metal Properties](2.8-TransitionMetalProperties.md)  
+[Lesson 2.8 - Transition Metal Properties](2.8-TransitionMetalProperties.md)  

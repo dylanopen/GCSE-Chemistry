@@ -2,7 +2,7 @@
 
 In this topic, we will learn about the structure of atoms and how they interact with each other.
 
-[Back to topic list](../topics.md)
+[Back to topic list](../)
 
 ## Topic Content
 
