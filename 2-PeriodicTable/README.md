@@ -12,3 +12,4 @@ In this topic, we will learn about the structure of atoms and how they interact 
 [Lesson 2.4 - Metals And Non-Metals](2.4-MetalsNonMetals.md)  
 [Lesson 2.5 - Group 0](2.5-Group0.md)  
 [Lesson 2.6 - Group 1](2.6-Group1.md)  
+[Lesson 2.7 - Group 7](2.7-Group7.md)  
