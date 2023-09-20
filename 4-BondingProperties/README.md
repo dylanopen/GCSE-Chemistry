@@ -10,3 +10,4 @@ In this topic, we cover in more detail the properties of different types of bond
 [Lesson 4.2 - Changing State](4.2-ChangingState.md)  
 [Lesson 4.3 - State Symbols](4.3-StateSymbols.md)  
 [Lesson 4.4 - Ionic Compound Properties](4.4-IonicProperties.md)  
+[Lesson 4.5 - Small Molecule Properties](4.5-SimpleCovalentProperties.md)  
