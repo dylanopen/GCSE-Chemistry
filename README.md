@@ -11,6 +11,7 @@ Below are shown the topics for this course:
 [Topic 1: Atomic Structure](1-AtomicStructure)  
 [Topic 2: Periodic Table](2-PeriodicTable)  
 [Topic 3: Chemical Bonding](3-Bonding)
+[Topic 4: Bonding Properties](4-BondingProperties)
 
 ## Reading the tutorial
 
