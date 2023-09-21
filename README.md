@@ -12,6 +12,7 @@ Below are shown the topics for this course:
 [Topic 2: Periodic Table](2-PeriodicTable)  
 [Topic 3: Chemical Bonding](3-Bonding)  
 [Topic 4: Bonding Properties](4-BondingProperties)  
+[Topic 5: Chemical Measurements](5-ChemicalMeasures)  
 
 ## Reading the tutorial
 
