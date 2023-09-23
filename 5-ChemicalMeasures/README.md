@@ -6,4 +6,4 @@ This topic covers the different ways we can quantify chemical reactions and subs
 
 ## Topic Content
 
-<!-- [Lesson 4.1 - States Of Matter](4.1-StatesOfMatter.md)   -->
+[Lesson 5.1 - Conservation Of Mass](5.1-MassConservation.md)
